@@ -1,2 +1,3 @@
-#Migmike
-##learning electronics and computer programming
+# Mig Mike 
+
+# New Version 1 
